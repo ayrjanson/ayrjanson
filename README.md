@@ -2,15 +2,10 @@
 I am a BSCS student at the University of Portland in Portland, Oregon
 
 <!-- Current Classes -->
-### Current Courses: Spring 2022
-- **CS 341** Software Engineering
-- **CS 352** Programming Languages
-- **CS 493** Augmented Reality for Learning (Research)
-
-### Upcoming Courses: Fall 2022
-- **CS 333** Computer Architecture
-- **CS 357** Theory of Computation
-- **CS 368** Seminar
+### Current Courses: Spring 2023
+- **CS 324** Analysis of Algorithms
+- **CS 358** Compiler Design
+- **CS 427** Internet of Things
 
 <!-- Social Media Profiles -->
 ### Contact Me
