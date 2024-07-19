@@ -1,15 +1,8 @@
 ### Hello, I'm Anna Yrjanson! 👋 
-I am a BSCS student at the University of Portland in Portland, Oregon
-
-<!-- Current Classes -->
-### Current Courses: Spring 2023
-- **CS 324** Analysis of Algorithms
-- **CS 358** Compiler Design
-- **CS 427** Internet of Things
+I am a recent BSCS grad from the University of Portland in Portland, Oregon
 
 <!-- Social Media Profiles -->
 ### Contact Me
-- [Email](mailto:yrjanson24@up.edu)
 - [LinkedIn](https://www.linkedin.com/in/anna-yrjanson-4982191b3/)
 
 
